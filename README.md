@@ -12,7 +12,9 @@ PostHog provides open-source product analytics, built for developers. Automate t
 
 1-click Heroku deploy:
 
-<a href="https://heroku.com/deploy?template=https://github.com/posthog/posthog"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/posthog/posthog-foss"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a>
+
+<br />_Note: this installs posthog/posthog-foss, not this forked repo. Also replaced in the Heroku link below._
 
 <br /><br />
 
@@ -90,7 +92,7 @@ You can [sign up for a free account](https://app.posthog.com/signup) on our host
 
 Our suggested method for quick deployment is Heroku's one-click option:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/posthog/posthog)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/posthog/posthog-foss)
 
 However, PostHog can be deployed anywhere you want! Here are step-by-step tutorials we've written for deployment options using all the major cloud providers:
 
